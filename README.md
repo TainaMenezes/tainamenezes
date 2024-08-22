@@ -6,6 +6,7 @@
 [![Linkedin: tainamenezes](https://img.shields.io/badge/-tainamenezes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tainá-menezes-b368b613a/)](https://www.linkedin.com/in/tainá-menezes-b368b613a/)
 [![GitHub Tainá](https://img.shields.io/github/followers/tainamenezes?label=follow&style=social)](https://github.com/tainamenezes)
 
+</br></br>
 ### <img src="https://media.giphy.com/media/UdxJwrriQpQ2Y/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
