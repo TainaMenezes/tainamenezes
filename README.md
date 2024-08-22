@@ -1,7 +1,7 @@
 ### Olá  
-#### 🌱 Atualmente estou seguindo um bootcamp (Santander 2024 - Backend com Java)
+#### 🌱 Atualmente estou seguindo um bootcamp (Claro - Java com Spring Boot)
+#### 🌱 Participante do Google Prep Tech 24 com a ADA
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tainamenezesss/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tainá-menezes-b368b613a)
 
 
@@ -19,6 +19,7 @@
 
 
 <!--
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tainamenezesss/)
 **TainaMenezes/tainamenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  <img align="center" alt="intellij" src="https://img.shields.io/badge/IntelliJ-E4405F?logo=intellij-idea&logoColor=white&style=for-the-badge" />
  <img align="center" alt="intellij" src="https://img.shields.io/badge/-PHP%20Storm-E4405F?logo=phpstorm&logoColor=white&style=for-the-badge" />
