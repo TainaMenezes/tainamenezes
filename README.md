@@ -1,36 +1,24 @@
-### Olá  
-#### 🌱 Atualmente estou seguindo um bootcamp (Claro - Java com Spring Boot)
-#### 🌱 Participante do Google Prep Tech 24 com a ADA
+<h2> Hi, I'm Tainá Menezes! <img src="https://media.giphy.com/media/YSqlj7iV0YWaagITG8/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/C76xta49gAXJXtO8ok/giphy.gif" width="230">
+<p><em>Graduated in Computer Science from <a href="https://www.unit.br/">Tiradentes University </a><img src="https://media.giphy.com/media/uAiIvb5iBQxcQ0SYON/giphy.gif" width="50"></br>Backend Developer at <a href="https://moobitech.com.br/">MoobiTech </a><img src="https://media.giphy.com/media/G3xHGIDU9LONNZQJid/giphy.gif" width="50"> 
+</em></p>
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tainá-menezes-b368b613a)
+[![Linkedin: tainamenezes](https://img.shields.io/badge/-tainamenezes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tainá-menezes-b368b613a/)](https://www.linkedin.com/in/tainá-menezes-b368b613a/)
+[![GitHub Tainá](https://img.shields.io/github/followers/tainamenezes?label=follow&style=social)](https://github.com/tainamenezes)
 
+### <img src="https://media.giphy.com/media/UdxJwrriQpQ2Y/giphy.gif" width="50"> A little more about me...  
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=TainaMenezes&show_icons=true&theme=dracula)
+```javascript
+const tai = {
+  pronouns: "she" | "her",
+  code: [PHP, Java, Javascript, HTML, CSS],
+  tools: [Docker, MySQL, Git],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  doing: "I'm doing a bootcamp at DIO about Java with Spring Boot and I'm also a participant of Google PrepTech 2024 at Adatech",
+  plus: "Movies, Anime, Cats, Games, Code" 
+}
+```
 
-<div style="display: inline">
-  <img align="center" alt="java" src="https://img.shields.io/badge/JAVA-E4405F?style=for-the-badge&logo=jar&logoColor=white" />
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-E4405F?style=for-the-badge&logo=PHP&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-E4405F?style=for-the-badge&logo=javascript&logoColor=black" /><br><br>
-  <img align="center" alt="docker" src="https://img.shields.io/badge/docker-E4405F?style=for-the-badge&logo=docker&logoColor=black" />
-  <img align="center" alt="docker" src="https://img.shields.io/badge/Git-E4405F?logo=git&logoColor=white&style=for-the-badge" /><br><br>
-  <img align="center" alt="docker" src="https://img.shields.io/badge/MySQL-E4405F?logo=mysql&logoColor=white&style=for-the-badge" />
-</div><br/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I like connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-
-
-<!--
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tainamenezesss/)
-**TainaMenezes/tainamenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- <img align="center" alt="intellij" src="https://img.shields.io/badge/IntelliJ-E4405F?logo=intellij-idea&logoColor=white&style=for-the-badge" />
- <img align="center" alt="intellij" src="https://img.shields.io/badge/-PHP%20Storm-E4405F?logo=phpstorm&logoColor=white&style=for-the-badge" />
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
