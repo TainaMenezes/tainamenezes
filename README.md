@@ -12,12 +12,14 @@
 ```javascript
 const tai = {
   pronouns: "she" | "her",
-  code: [PHP, Java, Javascript, HTML, CSS],
-  tools: [Docker, MySQL, Git],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  doing: "I'm doing a bootcamp at DIO about Java with Spring Boot and I'm also a participant of Google PrepTech 2024 at Adatech",
-  plus: "Movies, Anime, Cats, Games, Code" 
-}
+  code: ["Java", "PHP", "JavaScript", "HTML", "CSS"],
+  tools: ["Docker", "MySQL", "Git", "Spring Boot"],
+  architecture: ["Microservices", "Event-Driven", "Design System Pattern"],
+  skills: ["Data Structures", "Algorithms"],
+  learning: "Currently diving deep into RESTful APIs with Spring Boot 3, Java, and Docker, aiming for AWS deployment.",
+  goal: "Dreaming big.",
+  plus: ["Movies", "Anime", "Cats", "Games", "Code", "Continuous Learning"]
+};
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I like connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
