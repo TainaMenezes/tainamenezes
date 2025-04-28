@@ -1,6 +1,6 @@
 <h3> Hello, I'm Tainá!</h3>
 <img align='right' src="https://media.giphy.com/media/C76xta49gAXJXtO8ok/giphy.gif" width="250">
-<p><em>Graduated in Computer Science from <a href="https://www.unit.br/">Tiradentes University </a><img src="https://media.giphy.com/media/uAiIvb5iBQxcQ0SYON/giphy.gif" width="40"></br>Backend Developer at <a href="https://moobitech.com.br/">MoobiTech </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+<p><em>Graduated in Computer Science from <a href="https://www.unit.br/">Tiradentes University </a><img src="https://media.giphy.com/media/uAiIvb5iBQxcQ0SYON/giphy.gif" width="40"></br>Backend Developer at <a href="https://cvcrm.com.br">CV CRM </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </em></p>
 
 [![Linkedin: tainamenezes](https://img.shields.io/badge/-tainamenezes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tainá-menezes-b368b613a/)](https://www.linkedin.com/in/tainá-menezes-b368b613a/)
